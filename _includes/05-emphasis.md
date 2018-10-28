@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am currently learning to code in **Python** and study _Computer Science_ at [_**The University of Auckland**_ ](https://www.auckland.ac.nz)
